@@ -1,12 +1,12 @@
 Hey there, **I'm Arun Chauhan** 👋 | *Tech Geek - The Coder* :heart:
 
-📢 I'm currently working with [RARR Technologies](http://rarrtech.com/) as a Python Development Intern.  
+📢 Currently I'm doing #100DaysOfCode Challenge :grin:   
 
-1️⃣ 🔭 I’m working on tasks assigned by company for Software Development using various tools/technologies.
+1️⃣ 🔭 I’m working on various projects, enhancing problem solving skills & upgrading my techstack.
 
-2️⃣ 🎯 I’m currently learning MERN Stack & Django framework.
+2️⃣ 🎯 I’m currently learning Java, Spring Boot & MERN Stack.
 
-3️⃣ ⛳ I’m looking for help with finding internship/job opportunity with Top 50 IT giants.
+3️⃣ ⛳ I’m looking for help with finding internship/job opportunity with Top IT giants.
 
 4️⃣ 👯 I’m looking to collaborate on web dev projects, Computer Vision & Automation Projects.
 
