@@ -1,19 +1,18 @@
-Hey there, **I'm Arun Chauhan** 👋 | *Tech Geek - The Coder* :heart:
+Hey there, I'm **ARUN CHAUHAN** | Thank you for visiting to my profile 🙏  
 
-📢 Currently I'm doing #100DaysOfCode Challenge :grin:   
+1️⃣ ✏️ Currently I'm working as a BackEnd Developer & involved in development of some awesome projects
 
-1️⃣ 🔭 I’m working on various projects, enhancing problem solving skills & upgrading my techstack.
+2️⃣ 🎯 You'll find me mostly coding in Java, working on SpringBoot, debugging code & experiment things. If not then most probably I'll be playing sports, doing Digital Marketing, creating content & sleeping 😇
 
-2️⃣ 🎯 I’m currently learning Java, Spring Boot & MERN Stack.
+3️⃣ 🌀 Always up for awesome oppportunities which aligns my goals & overall growth - DM me on Linkedin 🙌
 
-3️⃣ ⛳ I’m looking for help with finding internship/job opportunity with Top IT giants.
+4️⃣ 💻 Previously I got a chance to work with multiple startups where I got an exposure on various projects & explored multiple domains 
 
-4️⃣ 👯 I’m looking to collaborate on web dev projects, Computer Vision & Automation Projects.
+5️⃣ 💬 Feel free to ask me about Coding, Digital Marketing & interview experiencs with startups
 
-5️⃣ 💬 Ask me about Coding, Digital Marketing & interview experiencs with startups.
+6️⃣ 💥 Building a community of jobseekers on [Telegram](https://t.me/jobsinternshipswale) & helping them in a best possible way :) 
 
-6️⃣ 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iamarunchauhan/), [Twitter](https://twitter.com/imarun_chauhan),  [HackerRank](https://www.hackerrank.com/iamarunchauhan) ✌️
+7️⃣ 👯 Open for collaboration & discussion on different projects, ideas, techstack
 
-7️⃣ 😄 Pronouns: He/him
+8️⃣ 📢 Let's connect : [Linkedin](https://www.linkedin.com/in/iamarunchauhan/), [Twitter](https://twitter.com/imarun_chauhan),  [HackerRank](https://www.hackerrank.com/iamarunchauhan) ✌️
 
-8️⃣ 💻 I have working experience on Python, Django, Flask, JavaScript, Bootstrap 4, chartJS, PostgreSQL & AWS(EC2).
